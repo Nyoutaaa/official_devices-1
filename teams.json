@@ -192,5 +192,15 @@
 		"devices": [
 			"chiron"
 		]
+	},
+	{
+		"_id": "Nyoutaaa",
+		"name": "Nyoutaaa",
+		"url": "https://github.com/Nyoutaaa",
+		"devices": [
+			"starqltechn",
+			"star2qltechn",
+			"crownqltechn"
+		]
 	}
 ]
